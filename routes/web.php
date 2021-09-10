@@ -18,8 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    echo('Priesca Leylya Syafitri');
-    echo('2031710176');
+    echo('Nama : PRIESCA LEYLYA SYAFITRI <br> Nim : 2031710176');
 });
 
 Route::get('/articles/1', function () {

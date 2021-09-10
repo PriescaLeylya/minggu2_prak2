@@ -13,7 +13,6 @@ class AboutController extends Controller
 
 Route::get(‘/about’, function () {
     return 'Nama : Priesca Leylya Syafitri';
-    <br>
     return 'Nim : 2031710176';
    });
  
